@@ -36,7 +36,7 @@ If you wish to run the code locally, follow these steps:
     # Using pip to install Ripser
     pip install Ripser
 
-    # Using pip to install Ripser
+    # Using pip to install Persim
     pip install persim
     
 5.  Launch Jupyter Notebook or Jupyter Lab:
