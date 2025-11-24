@@ -35,10 +35,11 @@ If you wish to run the code locally, follow these steps:
 
     # Using pip to install Ripser
     pip install Ripser
-5.  # Using pip to install Ripser
+
+    # Using pip to install Ripser
     pip install persim
     
-6.  Launch Jupyter Notebook or Jupyter Lab:
+5.  Launch Jupyter Notebook or Jupyter Lab:
     ```bash
     jupyter lab
     ```
