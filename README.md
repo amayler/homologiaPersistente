@@ -15,8 +15,8 @@ To run the code without any local setup, click the **Open in Colab** badge below
 
 | Notebook | Description | Colab |
 |----------|-------------|-------|
-| `analisis_datos.ipynb` | Data Preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WLvM9PmGrOfetJXFaarbOeeMJuBmejrD?usp=sharing) |
-| `modelo_entrenamiento.ipynb` | Model Training | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WLvM9PmGrOfetJXFaarbOeeMJuBmejrD?usp=sharing) |
+| Ejemplo 6.1. 0-generadores.ipynb` | Data Preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WLvM9PmGrOfetJXFaarbOeeMJuBmejrD?usp=sharing) |
+| Ejemplo 6.2. 1-generadores.ipynb` | Model Training | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WLvM9PmGrOfetJXFaarbOeeMJuBmejrD?usp=sharing) |
 
 
 ## Local Installation
