@@ -35,8 +35,10 @@ If you wish to run the code locally, follow these steps:
 
     # Using pip to install Ripser
     pip install Ripser
+5.  # Using pip to install Ripser
+    pip install persim
     
-5.  Launch Jupyter Notebook or Jupyter Lab:
+6.  Launch Jupyter Notebook or Jupyter Lab:
     ```bash
     jupyter lab
     ```
@@ -44,10 +46,11 @@ If you wish to run the code locally, follow these steps:
 ## Requirements
 
 The main Python packages required are:
-- numpy 
-- ripser
-- plot_diagramsnumpy
-  
+- numpy :: Biblioteca fundamental para computación numérica con soporte de arrays multidimensionales y funciones matemáticas. 
+- ripser :: Biblioteca para el cálculo eficiente de homología persistente (topología computacional) a partir de datos.
+- persim :: Herramientas para visualización, comparación y análisis de diagramas de persistencia generados por Ripser. 
+
+ 
 ## Data
 
 *The data used in this study are generated in running time by the programs. The data set is created randomly and processed by the program.*
